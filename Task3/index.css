@@ -1,0 +1,39 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+p>span {
+    background-color: rgba(188, 193, 199, 0.507);
+    color: brown;
+}
+
+.CodeArea {
+    background-color: rgba(188, 193, 199, 0.315);
+}
+
+.CodeArea>pre>code>span {
+    color: brown;
+
+}
+
+code {
+    color: black;
+    font-size: 14px;
+}
+
+.Tags {
+    font-weight: bolder;
+}
+
+.Tags>a {
+    text-decoration: none;
+    background-color: rgba(183, 190, 192, 0.404);
+    font-weight: 500;
+    color: rgb(114, 206, 243);
+}
+
+body {
+    margin-left: 15px;
+    margin-right: 15px;
+}
